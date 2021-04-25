@@ -1,1 +1,1 @@
-<img scr="Delisle-ONE/City - Floorplans.pdf">
+<img scr="City - Floorplans.pdf">
