@@ -1,2 +1,3 @@
 # Delisle-ONE
-Test
+
+<img scr="Floorplans.pdf"
