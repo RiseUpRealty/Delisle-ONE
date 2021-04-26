@@ -1,1 +1,1 @@
-<object data="/Delisle-ONE/City - Floorplans.pdf" type="application/pdf" width="100%">
+https://github.com/RiseUpRealty/Delisle-ONE/blob/main/City%20-%20Floorplans.pdf
