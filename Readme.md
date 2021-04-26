@@ -1,1 +1,1 @@
-https://shoebox-designs.com/
+[embed] https://shoebox-designs.com/
