@@ -1,2 +1,1 @@
-City - Floorplans.pdf
-!{Delisle Floor Plans](/RiseUpRealty/Delisle-ONE/City - Floorplans.pdf)
+!{Delisle Floor Plans](/Delisle-ONE/City - Floorplans.pdf "Floor Plans")
