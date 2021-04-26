@@ -1,2 +1,2 @@
 City - Floorplans.pdf
-!{hustlin_erd](City - Floorplans.pdf)
+!{Delisle Floor Plans](/RiseUpRealty/Delisle-ONE/City - Floorplans.pdf)
